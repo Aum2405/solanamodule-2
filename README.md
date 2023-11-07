@@ -1,4 +1,4 @@
-# INTEGRATION OF SOLANA WALLET - feature
+# INTEGRATION OF SOLANA WALLET - VS
 
 ## Description
 This project is a demonstration of integrating Solana wallet functionality into a web application. It showcases the process of creating a new Solana account, connecting to the Phantom wallet, and performing a transfer to a new wallet.
